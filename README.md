@@ -13,4 +13,4 @@ I enjoy learning and solving real-world problems in systematic, efficient, and e
 - 📫 Contact: soobahorn@gmail.com
 - ⚡ Fun fact: I’m a foodie who also enjoys hiking across Taiwan’s mountain trails.
 
-Feel free to visit my [website](https://shin13.github.io/home).
+Feel free to visit my [website](https://shin13.github.io).
