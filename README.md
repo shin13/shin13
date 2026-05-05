@@ -1,12 +1,16 @@
-## Hi there, I'm Shin 👋
+## Hi, I'm Shin 👋
 
-I'm a developer who enjoys solving real-world problems in more efficient and elegant ways.
+I enjoy learning and solving real-world problems in systematic, efficient, and elegant ways.
 
-- 🔭 I’m currently working on
-  - [AI-Powered CXR Report Generator](https://github.com/shin13/AI-Powered-CXR-Report-Generator)
-  - building knowledge database at scale
-- 🌱 I’m currently learning [MCP](https://github.com/modelcontextprotocol) and ML/AI application development.
-- 📫 How to reach me: [soobahorn@gamil.com](mailto:soobahorn@gmail.com)
-- ⚡ Fun fact: I enjoy hiking and have explored the beautiful mountain trails of Taiwan.
+- 🔭 Currently working on
+  - AI-Powered CXR Report Generator 
+  - building knowledge database at scale using RAG
+  - building AI infrastructure for healthcare organizations
+- 🌱 Currently exploring
+-   MAF (Microsoft Agent Framework)
+-   ML/AI application development
+-   educational AI grounded in learning theory
+- 📫 Contact: soobahorn@gmail.com
+- ⚡ Fun fact: I’m a foodie who also enjoys hiking across Taiwan’s mountain trails.
 
-Feel free to check my [personal website](https://shin13.github.io) for more information.
+Feel free to visit my [website](https://shin13.github.io/home).
