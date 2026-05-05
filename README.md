@@ -7,9 +7,9 @@ I enjoy learning and solving real-world problems in systematic, efficient, and e
   - building knowledge database at scale using RAG
   - building AI infrastructure for healthcare organizations
 - 🌱 Currently exploring
--   MAF (Microsoft Agent Framework)
--   ML/AI application development
--   educational AI grounded in learning theory
+  -   MAF (Microsoft Agent Framework)
+  -   ML/AI application development
+  -   educational AI grounded in learning theory
 - 📫 Contact: soobahorn@gmail.com
 - ⚡ Fun fact: I’m a foodie who also enjoys hiking across Taiwan’s mountain trails.
 
